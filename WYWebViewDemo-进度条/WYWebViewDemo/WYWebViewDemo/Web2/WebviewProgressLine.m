@@ -2,8 +2,8 @@
 //  WebviewProgressLine.m
 //  WYWebViewDemo
 //
-//  Created by I2finance on 2018/6/22.
-//  Copyright © 2018年 wangyan. All rights reserved.
+//  Created by cl9000 on 2018/6/22.
+//  Copyright © 2018年 cl9000. All rights reserved.
 //
 
 #import "WebviewProgressLine.h"
